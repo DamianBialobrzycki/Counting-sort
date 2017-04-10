@@ -1,5 +1,8 @@
 # Counting-sort
 Task from "Algorithms and data structures" subject.
+Points: 5/5
+Minuses:
+- ugly main function
 
 OPEN BY RAW OPTION
 
